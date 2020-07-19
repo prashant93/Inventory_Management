@@ -1,0 +1,19 @@
+{
+    "name": "inventory_manager",
+    "version": "1.0.0",
+    "description": "Managing Inventory For Mask and Gloves",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "inventory": "./index.js"
+    },
+    "keywords": ["Mask", "Gloves", "Germany Inventory", "UK Inventory"],
+    "author": "Prashant Panigrahi",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "clear": "^0.1.0"
+    }
+}
